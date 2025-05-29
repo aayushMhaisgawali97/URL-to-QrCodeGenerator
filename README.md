@@ -20,7 +20,8 @@
 <br>
 <h2>step-4</h2>
 <h3>navigate to index.js from Qr project folder</h3>
-url= ![image](https://github.com/user-attachments/assets/deafbdce-3382-4cfd-82f1-eed0864c3199)
+![image](https://github.com/user-attachments/assets/4ee0437b-f7ed-4039-b9d5-77411f3cbb52)
+
 
 <br> 
 <h2>step-5</h2>
