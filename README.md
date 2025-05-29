@@ -8,4 +8,21 @@
 <h1>👇</h1>
 <br>
 <br>
+<h2>step-1</h2>
+<br>
+<h3>switch to master from main branchfrom </h3>
+<br>
+<h2>step-2</h2>
+<h3>download the zip files from codes</h3>
+<br>
+<h2>step-3</h2>
+<h3>open in code editor and open terminal</h3>
+<br>
+<h2>step-4</h2>
+<h3>navigate to index.js from Qr project folder</h3>
+url= ![image](https://github.com/user-attachments/assets/deafbdce-3382-4cfd-82f1-eed0864c3199)
 
+<br> 
+<h2>step-5</h2>
+
+<h3></h3>
