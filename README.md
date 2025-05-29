@@ -14,6 +14,7 @@
 
 ## Step 3
 **Open the folder in a code editor and launch the terminal.**
+https://github.com/aayushMhaisgawali97/URL-to-QrCodeGenerator/issues/1#issue-3101534300
 
 ## Step 4
 **Navigate to `index.js` from the QR project folder.**
